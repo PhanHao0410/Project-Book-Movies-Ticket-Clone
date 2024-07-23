@@ -1,3 +1,15 @@
 export type {
   LoginForm,
+  ListCalendar,
+  InformMovies,
+  InformCalendar,
+  DetailMovie,
+  TypeNews,
+  SearchMovies,
+  FormSignIn,
+  FromPurchaseTicket,
+  FromInformAccount,
+  FormUpdateAccount,
+  FormHistory,
+  FormSignUp,
 } from './LoginForm';

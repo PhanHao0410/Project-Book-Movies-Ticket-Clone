@@ -2,12 +2,12 @@ import { CSSProp } from 'styled-components';
 
 declare module 'styled-components' {
   export interface DefaultTheme {
-    borderRadius: string
+    borderRadius: string;
 
     colors: {
-      main: string
-      secondary: string
-    }
+      main: string;
+      secondary: string;
+    };
   }
 }
 

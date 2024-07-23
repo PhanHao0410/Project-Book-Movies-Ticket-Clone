@@ -1,0 +1,18 @@
+export const IMAGES: string[] = [
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+  'https://congthanh.vn/uploads/images/in-poster-phim-anh-dep-.jpg',
+];

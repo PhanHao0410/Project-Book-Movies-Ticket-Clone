@@ -1,6 +1,13 @@
-import { ACCESS_TOKEN, CACHED_URL } from 'admin/src/constants/localStorage';
+import {
+  ACCESS_TOKEN,
+  CACHED_URL,
+  CURRENT_USER,
+} from 'admin/src/constants/localStorage';
 
-export const getToken = () => localStorage.getItem(ACCESS_TOKEN);
+export const getToken = () => localStorage.getItem(CURRENT_USER);
+export const getAccessToken = () => localStorage.getItem(ACCESS_TOKEN);
+export const removeToken = () => localStorage.removeItem(CURRENT_USER);
+export const removeAccessToken = () => localStorage.removeItem(ACCESS_TOKEN);
 
 export const getCachedUrl = () => localStorage.getItem(CACHED_URL);
 
